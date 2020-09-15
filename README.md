@@ -1,8 +1,10 @@
 # LiZhang_Project
-Due to the limited length of the dissertation , I put some codes and data here for reference
+Due to the limited length of the dissertation , I put some codes and data here for reference.
+The whole workflow of the project is shown in the figure below:
 
 ![12345](/image/intro.png)
 
+The functions of each file are as follows:
 
 1. carto.py & render_tiles.py: generate map images
 2. train.csv: labels
